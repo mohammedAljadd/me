@@ -13,4 +13,4 @@
 
 # Third image:
 
-<img src='mg/1_KP0YsR-gCrhffa2JyjBhKg.png' height="300" width="300">
+<img src='mg/barley.jpg' height="300" width="300">
